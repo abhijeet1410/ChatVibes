@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "783359928097",
+    "firebase_url": "https://chat-vibes.firebaseio.com",
+    "project_id": "chat-vibes",
+    "storage_bucket": "chat-vibes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783359928097:android:b0d26dbec13ec8e3",
+        "android_client_info": {
+          "package_name": "com.abhijeet14.chatvibes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783359928097-fbio5enmdtvpb2r1cuttfapbbo2dbv7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhijeet14.chatvibes",
+            "certificate_hash": "9dab4f7cab656306f499c8f264aa8041654663a9"
+          }
+        },
+        {
+          "client_id": "783359928097-5ll1pp9sln1vk9g5qs4v9g45kl2d5ime.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP1vPwIiipf7bajwX-7la7pUx8tKzezw4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783359928097-5ll1pp9sln1vk9g5qs4v9g45kl2d5ime.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
